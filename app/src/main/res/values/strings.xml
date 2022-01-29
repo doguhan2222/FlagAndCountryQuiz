@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flag And Country Quiz</string>
+    <string name="anaEkran1">TOPLAM ŞIK DENEME SAYISI :</string>
+    <string name="anaEkran2">DOĞRU SORU SAYISI : </string>
+    <string name="anaEkran3">YANLIŞ SORU SAYISI : </string>
+    <string name="anaEkran4">BAŞLA </string>
+
+</resources>
