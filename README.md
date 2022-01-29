@@ -10,7 +10,7 @@ Daha sonra çekilen model listesinden rastgele bi ülke kodu alınır ve Glide k
 
 Bayrağı gösterilen ülkenin ismi de listeden bulunur ve rastgele iki ülke ismi ile birlikte üç farklı şıkta rastgele gösterilir.
 
-Eğer yarışmacı doğru veya yanlış bilirse SQLite içinde tutulun satır bir artırılarak güncellenir.
+Eğer yarışmacı doğru veya yanlış bilirse SQLite içinde tutulun satır bir artırılarak güncellenir ve yeni soruya geçilir.
 
 Ana ekranda
 
