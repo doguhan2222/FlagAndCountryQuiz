@@ -1,4 +1,4 @@
-Kullanılan Teknolojiler
+Kullanılan Teknolojiler:
 
 SQlite,Retrofit2,Glide
 
